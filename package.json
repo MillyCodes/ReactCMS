@@ -1,0 +1,25 @@
+{
+    "name": "reactcms",
+    "version": "1.0.0",
+    "description": "A blog system built with react and more.",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MillyCodes/ReactCMS.git"
+    },
+    "author": "millycodes",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MillyCodes/ReactCMS/issues"
+    },
+    "homepage": "https://github.com/MillyCodes/ReactCMS#readme",
+    "dependencies": {
+        "express": "^4.16.4",
+        "graphql": "^14.0.2",
+        "nodemon": "^1.18.4"
+    }
+}
