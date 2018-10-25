@@ -1,4 +1,4 @@
-#[REACT BLOG](https://www.youtube.com/watch?v=aEQ0lvhrcy0)
+# [REACT BLOG](https://www.youtube.com/watch?v=aEQ0lvhrcy0)
 
 ## About
 
