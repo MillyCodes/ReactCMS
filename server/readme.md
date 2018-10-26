@@ -10,3 +10,7 @@
 -   React.js
 -   GraphQL/Apollo
 -   MongoDB/Mongoose/MLab
+
+## So currently..
+
+Working on configuring MongoDB with MLab.

@@ -22,6 +22,7 @@ const typeDefs = gql`
     }
     type Query {
         showAllBlogs: [Blog]
+        showAllUsers: [User]
     }
 `;
 
@@ -63,3 +64,5 @@ app.listen({ port: PORT }, () =>
 app.get("/", function(req, res) {
     res.send("Hello World");
 });
+
+// to run in terminal enter: nodemon app
